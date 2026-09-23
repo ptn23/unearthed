@@ -1,10 +1,10 @@
-# WEB103 Project 1 - *Name of App Here*
+# WEB103 Project 1 - CityTour
 
-Submitted by: **Your name here**
+Submitted by: Phuong Nguyen
 
-About this web app: **App description here**
+About this web app: Get a full understanding of America's biggest cities
 
-Time spent: **X** hours
+Time spent: 1.2 hours
 
 ## Required Features
 
@@ -31,17 +31,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 
+<img width="400" height="210" alt="Screen Recording 2026-09-22 210125" src="https://github.com/user-attachments/assets/76ce04dd-3aac-4b69-8e78-ef90b4880a48" />
 
-
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  Add GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
